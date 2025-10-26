@@ -15,6 +15,12 @@ func main() {
 	BMI := userWeight / math.Pow(userHeight, BMIPower)
 
 	fmt.Printf("%f\n", BMI)
+<<<<<<< HEAD
 
 	fmt.Printf("Test2")
+=======
+	
+	
+	fmt.Print(BMI)
+>>>>>>> second
 }
